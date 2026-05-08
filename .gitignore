@@ -1,0 +1,13 @@
+@"
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+*.log
+htmlcov/
+.coverage
+report.html
+test-results/
+playwright-report/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
