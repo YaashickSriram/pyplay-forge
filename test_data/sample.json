@@ -1,0 +1,17 @@
+{
+  "user": {
+    "name": "Alice",
+    "email": null,
+    "address": {
+      "street": "123 Main St",
+      "city": null,
+      "zip": "12345"
+    }
+  },
+  "preferences": {
+    "theme": "dark",
+    "notifications": null
+  },
+  "lastLogin": null,
+  "isActice": 1
+}
